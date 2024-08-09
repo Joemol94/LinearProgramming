@@ -26,6 +26,6 @@ Iterative Optimization: The process is repeated until all demand is met or no fu
 
 Generating the Final Output: We generate a final output that shows the optimum reel size and the total demand met for each SKU.
 
- ---Detailed explanation on the LPP problem is given in this [blog][url]((https://medium.com/p/36374463007e)) post ---
+ ---Detailed explanation on the LPP problem is given in this [blog]((https://medium.com/p/36374463007e)) post ---
 
 **User Interface is developed using plotly Dash with necessary functionalities like Edit, save, upload, Download and send email. Refer home_new.py**
