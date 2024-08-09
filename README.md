@@ -1,5 +1,6 @@
 # LinearProgramming
 **Problem**
+
 Imagine a company that manufactures products requiring different widths of paper. The company has large paper reels that need to be cut into specific widths for various products. Each product has a certain demand, and the goal is to optimize the cutting process to minimize waste while meeting the demand for each product.
 The company has a total reel size of 2200 mm available. The challenge is to determine how many cuts of each width should be made from the reel to meet the demand for each SKU, while also ensuring that the total width used does not exceed the available reel size.
 **Sample Data:**
