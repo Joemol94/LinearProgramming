@@ -20,6 +20,7 @@ Initial Model Setup: We create a linear programming model to maximize the utiliz
 Running the Model: We solve the model and adjust the demand based on the solution.
 Iterative Optimization: The process is repeated until all demand is met or no further optimization is possible.
 Generating the Final Output: We generate a final output that shows the optimum reel size and the total demand met for each SKU.
-Detailed explanation on the LPP problem is given in this [blog]((https://medium.com/p/36374463007e)) post
 
-User Interface is developed using plotly Dash with necessary functionalities like Edit, save, upload, Download and send email. 
+ ---Detailed explanation on the LPP problem is given in this [blog]((https://medium.com/p/36374463007e)) post ---
+
+**User Interface is developed using plotly Dash with necessary functionalities like Edit, save, upload, Download and send email.**
