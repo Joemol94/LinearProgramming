@@ -17,9 +17,13 @@ SKU5	900	14000	1050	165	June
 To solve this problem, we’ll use Linear Programming to optimize the cutting process. The approach involves the following steps:
 
 Data Preparation: We begin by processing the data to calculate the demand in terms of the required width.
+
 Initial Model Setup: We create a linear programming model to maximize the utilization of the reel size while satisfying the demand constraints.
+
 Running the Model: We solve the model and adjust the demand based on the solution.
+
 Iterative Optimization: The process is repeated until all demand is met or no further optimization is possible.
+
 Generating the Final Output: We generate a final output that shows the optimum reel size and the total demand met for each SKU.
 
  ---Detailed explanation on the LPP problem is given in this [blog]((https://medium.com/p/36374463007e)) post ---
