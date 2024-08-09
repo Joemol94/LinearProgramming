@@ -28,4 +28,4 @@ Generating the Final Output: We generate a final output that shows the optimum r
 
  ---Detailed explanation on the LPP problem is given in this [blog(https://medium.com/p/36374463007e)] post ---
 
-**User Interface is developed using plotly Dash with necessary functionalities like Edit, save, upload, Download and send email. Refer home_new.py**
+**UI is developed using plotly Dash with necessary functionalities like Edit, save, upload, Download and send email. Refer home_new.py**
