@@ -28,9 +28,9 @@ import reelsize_main
 
 
 
-base_path = r"C:\Users\Jothi Lakshmi K\OneDrive - Tolaram\Desktop\SC-DS Projects\carton project\GSM_mod/"
+base_path = r"path_to_project\carton project\GSM_mod/"
 #base_path = r"/home/ubuntu/demand_optimization/"
-reel_base_path = r"C:\Users\Jothi Lakshmi K\OneDrive - Tolaram\Desktop\SC-DS Projects\carton project\reel_optimization/"
+reel_base_path = r"path_to_project\carton project\reel_optimization/"
 reelsize_data = pd.read_excel(reel_base_path+ "reel_size_input.xlsx")
 #gsm_data = pd.read_excel(base_path+"data/sample_data_full_gsm.xlsx")
 gsm_data = pd.read_excel(base_path+"data/GSM_data_newformat.xlsx")
